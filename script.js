@@ -1,3 +1,7 @@
+//SELURUH FUNGSI DIBUAT OLEH RAIHAN_OFFICIAL0307 X VISUALCODEPO
+ //CREATED BY: RAIHAN_OFFICIAL0307 X VISUALCODEPO
+ // t.me/raihan_official0307
+ //OPEN SOURCE DAN WAJIB CANTUMKAN NAMA PEMBUAT ASLI
 document.addEventListener('DOMContentLoaded', function() {
             const inputText = document.getElementById('inputText');
             const generateBtn = document.getElementById('generateBtn');
@@ -105,7 +109,10 @@ document.addEventListener('DOMContentLoaded', function() {
                     secure: true
                 }
             ];
-
+//SELURUH FUNGSI DIBUAT OLEH RAIHAN_OFFICIAL0307 X VISUALCODEPO
+ //CREATED BY: RAIHAN_OFFICIAL0307 X VISUALCODEPO
+ // t.me/raihan_official0307
+ //OPEN SOURCE DAN WAJIB CANTUMKAN NAMA PEMBUAT ASLI
             
             let selectedMethod = 'sha256';
             let history = JSON.parse(localStorage.getItem('hashHistory')) || [];
@@ -190,7 +197,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 const originalText = generateBtn.innerHTML;
                 generateBtn.innerHTML = '<span class="loading"></span> Generating...';
                 generateBtn.disabled = true;
-
+ //SELURUH FUNGSI DIBUAT OLEH RAIHAN_OFFICIAL0307 X VISUALCODEPO
+ //CREATED BY: RAIHAN_OFFICIAL0307 X VISUALCODEPO
+ // t.me/raihan_official0307
+ //OPEN SOURCE DAN WAJIB CANTUMKAN NAMA PEMBUAT ASLI
                 
                 setTimeout(() => {
                     let hash;
@@ -439,7 +449,10 @@ document.addEventListener('DOMContentLoaded', function() {
                     toast.className = 'toast';
                 }, 3000);
             }
-
+ //SELURUH FUNGSI DIBUAT OLEH RAIHAN_OFFICIAL0307 X VISUALCODEPO
+ //CREATED BY: RAIHAN_OFFICIAL0307 X VISUALCODEPO
+ // t.me/raihan_official0307
+ //OPEN SOURCE DAN WAJIB CANTUMKAN NAMA PEMBUAT ASLI
           
             function sha3_224(text) {
                 return sha3_224(text);
@@ -491,3 +504,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
         });
+ //SELURUH FUNGSI DIBUAT OLEH RAIHAN_OFFICIAL0307 X VISUALCODEPO
+ //CREATED BY: RAIHAN_OFFICIAL0307 X VISUALCODEPO
+ // t.me/raihan_official0307
+ //OPEN SOURCE DAN WAJIB CANTUMKAN NAMA PEMBUAT ASLI
+ 
